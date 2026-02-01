@@ -36,6 +36,11 @@ body {
     overflow: visible !important;
 }
 
+.hidden {
+    display: none;
+}
+
+
 .floating-elements {
     position: fixed;
     width: 100%;
