@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://drive.google.com/file/d/10in722RpDJiPvWkXq_zyqO6xMaYfJVpm/view?usp=sharing", // Music streaming URL https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3
+        musicUrl: "https://res.cloudinary.com/doh5snugn/video/upload/v1769992494/Elliot_James_Reay-01-I_Think_They_Call_This_Love_o1hlit.mp3", // Music streaming URL https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
